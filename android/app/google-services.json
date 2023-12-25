@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568186916298",
+    "project_id": "flash-chat-by-ayeni",
+    "storage_bucket": "flash-chat-by-ayeni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568186916298:android:5a7899bac3207e3a1e5333",
+        "android_client_info": {
+          "package_name": "com.example.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYLOj5GHozacSDrdF2AQPUuVW9zyI75iM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
